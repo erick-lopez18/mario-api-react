@@ -1,0 +1,1 @@
+export declare const GAME_CHARACTER_SERVICE = "GAME_CHARACTER_SERVICE";

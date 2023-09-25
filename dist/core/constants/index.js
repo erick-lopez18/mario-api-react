@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.PLATFORM_REPOSITORY = exports.GAME_CHARACTER_REPOSITORY = exports.GAME_REPOSITORY = exports.CHARACTER_REPOSITORY = exports.SEQUELIZE = void 0;
+exports.SEQUELIZE = "SEQUELIZE";
+exports.CHARACTER_REPOSITORY = "CHARACTER_REPOSITORY";
+exports.GAME_REPOSITORY = "GAME_REPOSITORY";
+exports.GAME_CHARACTER_REPOSITORY = "GAME_CHARACTER_REPOSITORY";
+exports.PLATFORM_REPOSITORY = "PLATFORM_REPOSITORY";
+//# sourceMappingURL=index.js.map
